@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ammarkhan575
-- 👀 I’m interested in android development.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning c language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
