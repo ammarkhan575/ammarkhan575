@@ -22,8 +22,6 @@
   <a href="https://www.linkedin.com/in/ammarkhan575" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   <hr>
-<div>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ammarkhan575.ammarkhan575">
-</div>
+![vistors](https://visitor-badge.glitch.me/badge?page_id=ammarkhan575.ammarkhan575)
    
 
