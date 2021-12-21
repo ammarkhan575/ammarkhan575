@@ -23,7 +23,7 @@
  </div>
   <hr>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarkhan575&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ammarkhan575.ammarkhan575">
 </div>
    
 
