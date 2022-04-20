@@ -1,7 +1,7 @@
   - <p>👋 Hi, I’m @ammarkhan575</p>
   - <p>👀 I’m interested in web development.</p>
-  - <p>🌱 I’m currently learning C++ language.</p>
-  - <p>💞️ I’m looking to collaborate on ...</p>
+  - <p>🌱 I’m currently learning React.js .</p>
+  - <p>💞️ I’m looking to collaborate on frontend project...</p>
 <div align="center">
   <a href="https://github.com/ammarkhan575">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ammarkhan575&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
