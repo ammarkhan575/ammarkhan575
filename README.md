@@ -1,6 +1,6 @@
   - <p>👋 Hi, I’m @ammarkhan575</p>
   - <p>👀 I’m interested in web development.</p>
-  - <p>🌱 I’m currently learning React.js .</p>
+  - <p>🌱 I’m currently learning MERN .</p>
   - <p>💞️ I’m looking to collaborate on frontend project...</p>
 <div align="center">
   <a href="https://github.com/ammarkhan575">
